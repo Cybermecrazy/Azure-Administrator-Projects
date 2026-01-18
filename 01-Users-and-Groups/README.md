@@ -32,10 +32,23 @@ Practice creating and managing users and groups in Microsoft Entra ID (Azure AD)
 
 ### Invite a New User via Email 
 - Clicked in the New user drop-down & selected Invite an external user.
-- 
+- Filled in the details:
+  - Email: octavia.hall@azureexpert.com
+  - Display name: Octavia Hall
+  - Send invite messgae: Yes
+  - Message: Welcome to Azure and our group project
+  - Clicked Properties tab
+  - User type: Guest
+  - Job title: Cloud Administrator
+  - Company name: Octavia's Lemonade Stand
+  - Clicked Review + invite, and then Invite
+
+  ## Screenshots
+(I took screenshots of each step and saved them in the screenshots folder)
+
 
 ### 3. Create Security Groups
-- Went back to Azure Active Directory
+- Went back to Azure Home in the Portal
 - Clicked on "Groups" in the left menu
 - Clicked "+ New group"
 - Filled in the details:
@@ -58,9 +71,6 @@ Practice creating and managing users and groups in Microsoft Entra ID (Azure AD)
 - Checked that all users were created successfully
 - Verified group memberships
 - Tested user properties and made sure everything looked correct
-
-## Screenshots
-(I took screenshots of each step and saved them in the screenshots folder)
 
 ## Results
 - Successfully created 3 test users
