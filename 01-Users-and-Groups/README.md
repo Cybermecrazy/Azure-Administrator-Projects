@@ -8,6 +8,7 @@ Practice creating and managing users and groups in Microsoft Entra ID (Azure AD)
 ## What I Learned
 - How to navigate the Azure Portal
 - How to create new users in Azure AD
+- How to Invite a New User/Guest User via Email
 - How to create security groups
 - How to assign users to groups
 - How to manage user properties
