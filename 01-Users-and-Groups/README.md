@@ -1,5 +1,7 @@
-# Create Users and Groups in Azure AD
+# Manage Microsoft Entra ID Identities
 
+
+# Create Users and Groups in Azure AD
 ## Lab Overview
 Practice creating and managing users and groups in Microsoft Entra ID (Azure AD)
 
