@@ -25,10 +25,10 @@ Practice creating and managing users and groups in Microsoft Entra ID (Azure AD)
 - Clicked "+ New user" at the top
 - Selected "Create new user"
 - Filled in the details:
-  - User name: john.doe@yourdomain.onmicrosoft.com
-  - Name: John Doe
-  - First name: John
-  - Last name: Doe
+  - User name: octavia.hall@yourdomain.onmicrosoft.com
+  - Name: Octavia Hall
+  - First name: Octavia  
+  - Last name: Hall
 - Created a temporary password
 - Clicked "Create"
 - **Repeated this process to create 3 test users**
